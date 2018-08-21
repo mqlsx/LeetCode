@@ -1,1 +1,1 @@
-Yize's LeetCode.
+Yize's LeetCode. 
